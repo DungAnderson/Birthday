@@ -294,7 +294,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "<iframe width="633" height="524" src="https://www.youtube.com/embed/WZp-Ufx0jUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>");
+  ifrm.setAttribute("src", "<iframe width="633" height="524" src="https://www.youtube.com/embed/WZp-Ufx0jUM");
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
   ifrm.style.border = 'none';
